@@ -1,1 +1,3 @@
-# osTicket-Creating-Help-Topics-for-End-User
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
